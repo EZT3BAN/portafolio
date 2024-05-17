@@ -2,7 +2,11 @@
 
 Este repositorio contiene el código fuente de mi portafolio personal, desarrollado con HTML, CSS, BOOTSTRAP y un poco de JavaScript. El propósito de este proyecto es presentar mi experiencia, habilidades y proyectos en un formato interactivo y atractivo para posibles empleadores y clientes.
 
-[![Portafolio de fabian jaimes](imagenes/hero-celular.png)](![alt text](imagenes/hero-escritorio.png))
+
+
+[![Portafolio de fabian jaimes](imagenes/diseño_darklight.png)]
+
+(![alt text](imagenes/darklight_celular.png))
 
 ## Características principales
 
@@ -48,6 +52,6 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un __issue
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme en 
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme en https://taller-portafolio-esteban.netlify.app/#contacto 
 
 ¡Gracias por visitar mi portafolio! Espero que disfrutes explorando mi trabajo. 🤗
